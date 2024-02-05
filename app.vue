@@ -1,9 +1,9 @@
 <template>
   <div>
-    <NuxtWelcome />
+  <div>helloworld</div>
   </div>
 </template>
 <script setup type="ts">
 
-useFetch()
+
 </script>
